@@ -1,3 +1,5 @@
+my  dad wanted me yto get this workinggfdhjgbnsdfhnvlisdn njasdfkgnsdkj
+
 # Extended OpenAI Conversation
 This is custom component of Home Assistant.
 
